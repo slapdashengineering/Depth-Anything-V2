@@ -3,3 +3,4 @@ opencv-python
 open3d
 torch
 torchvision
+fonttools>=4.62.0 # not directly required, pinned by Snyk to avoid a vulnerability
